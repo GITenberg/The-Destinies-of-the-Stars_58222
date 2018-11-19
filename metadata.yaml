@@ -1,0 +1,25 @@
+_repo: The-Destinies-of-the-Stars_58222
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Fries, Joens Elias
+    gutenberg_agent_id: '49835'
+    url: http://www.gutenberg.org/2009/agents/49835
+creator:
+  author:
+    agent_name: Arrhenius, Svante
+    gutenberg_agent_id: '49834'
+    url: http://www.gutenberg.org/2009/agents/49834
+description: ''
+gutenberg_issued: '2018-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Destinies of the Stars
+url: http://www.gutenberg.org/ebooks/58222
