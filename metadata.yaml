@@ -1,16 +1,21 @@
 _repo: The-Destinies-of-the-Stars_58222
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Fries, Joens Elias
     gutenberg_agent_id: '49835'
     url: http://www.gutenberg.org/2009/agents/49835
+covers:
+- cover_type: archival
+  image_path: 58222-h/images/cover.jpg
 creator:
   author:
     agent_name: Arrhenius, Svante
     gutenberg_agent_id: '49834'
     url: http://www.gutenberg.org/2009/agents/49834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58222#The-Destinies-of-the-Stars
 gutenberg_issued: '2018-11-02'
 gutenberg_type: Text
 identifiers:
